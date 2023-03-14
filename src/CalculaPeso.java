@@ -23,8 +23,8 @@ public class CalculaPeso {
             System.out.println("Planeta inválido!");
         } else {
 
-            Planeta planeta = ordem[indexPlaneta];
-            System.out.println("Seu peso no planeta " + planeta.getNome() + " é de " + planeta.getPeso(peso) + " Newtowns.");
+            Planeta planetaSelecionado = ordem[indexPlaneta];
+            System.out.println("Seu peso no planeta " + planetaSelecionado.getNome() + " é de " + planetaSelecionado.getPeso(peso) + " Newtowns.");
         }
 
         scanner.close();
