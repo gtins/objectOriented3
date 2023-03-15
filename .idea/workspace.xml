@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1535664-6d7d-40c8-89e2-399030d13e86" name="Changes" comment="" />
+    <list default="true" id="b1535664-6d7d-40c8-89e2-399030d13e86" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculaPeso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculaPeso.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +56,8 @@
       <option name="presentableId" value="Default" />
       <updated>1678486491268</updated>
       <workItem from="1678819164106" duration="433000" />
-      <workItem from="1678819991932" duration="1674000" />
+      <workItem from="1678819991932" duration="2436000" />
+      <workItem from="1678923740219" duration="898000" />
     </task>
     <task id="LOCAL-00001" summary="Primeira Versão">
       <created>1678821633358</created>
@@ -62,7 +66,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678821633358</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Primeira Versão">
+      <created>1678821911103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678821911103</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Primeira Versão">
+      <created>1678821920807</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678821920807</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Primeira Versão">
+      <created>1678822027585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678822027585</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -9,12 +9,10 @@ public class CalculaPeso {
         System.out.print("Digite o seu peso em kg: ");
         double peso = scanner.nextDouble();
 
-
         System.out.println("Escolha um planeta para viajar:");
         for (int i = 0; i < ordem.length; i++) {
-            System.out.println(i + ". " + ordem[i]);
+            System.out.println(i + ". " + ordem[i].getNome());
         }
-
 
         System.out.print("Digite o número do planeta escolhido: ");
         int indexPlaneta = scanner.nextInt();
