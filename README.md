@@ -1,14 +1,14 @@
-# Continuação: Programação Orientada a Objetos (POO) em Java
+# Estudo de Programação Orientada a Objetos com Domínio de Planetas
 
-Este repositório é a continuação do projeto **`objectOriented2`** e introduz conceitos avançados de **POO** em **Java**, abordando **tratamento de exceções**, **classes genéricas** e **design patterns** para criar soluções mais escaláveis e robustas.
+Este repositório é a continuação do repositório **objectOriented2** e contém um exemplo de aplicação dos conceitos de **Programação Orientada a Objetos (POO)** em **Java**. O domínio utilizado é o de **planetas**, permitindo explorar de maneira prática os principais conceitos de POO, como **classes**, **objetos**, **herança** e **encapsulamento**.
 
 ---
 
 ## Objetivo do Projeto
 
-- Aprender o **tratamento de exceções** em Java.
-- Explorar **classes genéricas** e como usá-las para criar código reutilizável.
-- Aplicar **design patterns** para melhorar a manutenção e a escalabilidade do código.
+- Compreender e aplicar os conceitos fundamentais de **Programação Orientada a Objetos**.
+- Utilizar **planetas** como domínio para exemplificar o uso de **herança**, **polimorfismo** e **encapsulamento**.
+- Criar um sistema simples e organizado para modelar **planetas** no sistema solar, com classes que representam os diferentes tipos de planetas e suas interações.
 
 ---
 
@@ -16,7 +16,4 @@ Este repositório é a continuação do projeto **`objectOriented2`** e introduz
 
 - **Java**
 - InteliJ
-- **Tratamento de Exceções**
-- **Classes Genéricas**
-- **Design Patterns** (Singleton, Factory, etc.)
-
+  
